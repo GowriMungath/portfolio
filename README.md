@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, experience, and journey as a Software Engineer and AI enthusiast.
 
-🔗 **Live Site:** https://your-username.github.io
+🔗 **Live Site:** https://gowrimungath.github.io/portfolio/
 
 
 ## About Me
